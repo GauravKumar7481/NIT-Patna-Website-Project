@@ -660,6 +660,172 @@ body{
     font-weight: bold;
     border-radius: 20px;
 }
+.Studentsheaderdropdown{display: none;}
+
+#Studentsheader:hover .Studentsheaderdropdown{
+    display: block;
+    position: absolute;
+    background-color: white;
+    color: black;
+    margin-left: 44px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.Studentsheaderdropdown div{
+    display: block;
+    padding-top: 10px;
+}
+#Studentshostelmess{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentshostelmess:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentsscholarship{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentsscholarship:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentsclubssocities{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentsclubssocities:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentsantiragging{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentsantiragging:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentsfeepayment{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentsfeepayment:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentswomencell{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentswomencell:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentsscstcell{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentsscstcell:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentsstudentactivitycenter{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentsstudentactivitycenter:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentstechfest{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentstechfest:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentsnssnitp{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentsnssnitp:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentsecell{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentsecell:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentsunnatbharat{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentsunnatbharat:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Studentsstudentacademicportal{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Studentsstudentacademicportal:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Facilitiesheader{
     padding-top: 30px;
 }
@@ -677,6 +843,139 @@ body{
     font-weight: bold;
     border-radius: 20px;
 }
+.Facilitiesheaderdropdown{display: none;}
+
+#Facilitiesheader:hover .Facilitiesheaderdropdown{
+    display: block;
+    position: absolute;
+    background-color: white;
+    color: black;
+    margin-left: 44px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.Facilitiesheaderdropdown div{
+    display: block;
+    padding-top: 10px;
+}
+#Facilitiesincubationcenter{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Facilitiesincubationcenter:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Facilitiescomputercenter{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Facilitiescomputercenter:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Facilitieshealthcenter{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Facilitieshealthcenter:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Facilitiessportsfacilities{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Facilitiessportsfacilities:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Facilitieslibrary{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Facilitieslibrary:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Facilitiesbank{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Facilitiesbank:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Facilitiessecurity{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Facilitiessecurity:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Facilitiesemu{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Facilitiesemu:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Facilitiesesu{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Facilitiesesu:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+#Facilitieslaboratories{
+    text-align: center; 
+    text-decoration: none;
+    color: black;
+}
+#Facilitieslaboratories:hover{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Feepaymentheader{
     padding-top: 30px;
 }
@@ -854,4 +1153,67 @@ body{
     width: 100%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+#copyrightfooter{
+    width: 100%;
+}
+
+
+@media screen and (max-width:1499px) and (min-width:400px),screen and (orientation: landscape) {
+    #blankheader{
+        width: 1500px;
+    }
+    .nitpatnalogoheader{
+        width: 1500px;
+    }
+    .navigationheader{
+        width: 1500px;
+    }
+    .uppersectionphotos{
+        width: 1200px;
+        align-items: center;
+    }
+    .noticesection{
+        width: 1000px;
+    }
+    .aboutnitp{
+        width: 1500px;
+    }
+    .footer{
+        width: 1500px;
+    }
+    #copyrightfooter{
+        width: 1500px;
+    }
+}
+
+
+
+
+@media screen and (min-width:1500px),screen and (orientation: landscape) {
+    #blankheader{
+        width: 100%;
+    }
+    .nitpatnalogoheader{
+        width: 100%;
+    }
+    .navigationheader{
+        width: 100%;
+    }
+    .uppersectionphotos{
+        width: 100%;
+        align-items: center;
+    }
+    .noticesection{
+        width: 100%;
+    }
+    .aboutnitp{
+        width: 100%;
+    }
+    .footer{
+        width: 100%;
+    }
+    #copyrightfooter{
+        width: 1500px;
+    }
 }
