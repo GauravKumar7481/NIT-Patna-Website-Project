@@ -1010,6 +1010,7 @@ body{
     font-weight: bold;
     border-radius: 20px;
 }
+
 .uppersectionphotos{
     width: 1000px;
     display: flex;
@@ -1188,6 +1189,57 @@ body{
 }
 
 
+
+
+@media screen and (max-width:400px) and (min-width:100px),screen and (orientation: landscape) {
+    #blankheader{
+        width: 1500px;
+    }
+    .nitpatnalogoheader{
+        width: 1500px;
+    }
+    .navigationheader{
+        width: 1500px;
+    }
+    .uppersectionphotos{
+        width: 1500px;
+        
+    }
+    .noticesection{
+        width: 1500px;
+    }
+    .aboutnitp{
+        width: 1500px;
+    }
+    .footer{
+        width: 1500px;
+    }
+    #copyrightfooter{
+        width: 1500px;
+    }
+    /* .aboutus{
+        width: 120px;
+        height: 400px;
+    }
+    #au{
+        font-size: 20px;
+    }
+    #audesc{
+        font-size: 1px;
+    }
+    #v{
+        display: none;
+    }
+    #vdesc{
+        display: none;
+    }
+    #m{
+        display: none;
+    }
+    #mdesc{
+        display: none;
+    } */
+}
 
 
 @media screen and (min-width:1500px),screen and (orientation: landscape) {
